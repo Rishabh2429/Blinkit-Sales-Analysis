@@ -84,3 +84,4 @@ Business Impact & Insights
 • Provided insights for inventory and sales optimization
 
 This dashboard helps retail businesses improve decision-making, optimize inventory, and increase sales performance.
+Image- https://github.com/Rishabh2429/Blinkit-Sales-Analysis/blob/main/Blinkit%20Sales%20Analysis.jpeg
